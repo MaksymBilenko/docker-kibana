@@ -1,4 +1,4 @@
-docker-logstash
+docker-kibana
 ===============
 Docker [automated build](https://registry.hub.docker.com/u/sath89/kibana/) with Kibana 4.0.2 based on [ubuntu:latest](https://registry.hub.docker.com/u/library/ubuntu/)
 
